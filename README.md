@@ -42,7 +42,7 @@
 <!-- 新增：提醒下载 YOLOv14 权重 -->
 > ⚠️ **重要提醒**：无论电脑端还是手机端，AI 识别功能都依赖 **YOLOv14 预训练权重文件**。  
 > **请务必先前往以下链接下载权重文件**，否则后续运行会因缺少模型而失败：  
-> 👉 **[https://github.com/zhangcbb/yolov14](https://github.com/zhangcbb/yolov14)** （或该仓库的 Release 页面）  
+> 👉 **[https://github.com/zhangcbb/yolov14](https://github.com/zhangcbb/yolov14)**  
 > 下载后请根据电脑端或手机端的 README 指引放置权重文件（具体配置方法请参考各子项目的说明文档）。
 
 ---
